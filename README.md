@@ -1,5 +1,5 @@
 # TinyText
-Text Rendering Module Port From Tiny Differentiable Simulator For Win64
+Text Rendering Module Port From [Tiny Differentiable Simulator](https://github.com/google-research/tiny-differentiable-simulator/) For Win64
 
 ![](screenshot.png)
 
